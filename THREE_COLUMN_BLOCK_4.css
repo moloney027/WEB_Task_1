@@ -1,0 +1,47 @@
+body {
+    font: 13px Tahoma, sans-serif;
+    background: rgb(78, 99, 121);
+}
+
+.block {
+    background: white;
+    box-shadow: 0 30px 30px rgba(0, 0, 0, 0.5);
+    border-radius: 7px;
+    width: 650px;
+    height: 190px;
+    margin: auto;
+    overflow: hidden;
+}
+
+.num1 {
+    float: left;
+    width: 214px;
+    text-align: center;
+    margin: 10px 0;
+}
+
+.num {
+    float: left;
+    width: 214px;
+    border-left: 1px solid #d9d9d9;
+    text-align: center;
+    margin: 10px 0;
+}
+
+.iconify {
+    font-size: 60px;
+    color: rgb(96, 96, 94);
+}
+
+.heading {
+    color: rgb(245, 99, 50);
+}
+
+.button {
+    border: none;
+    background-color: rgb(245, 99, 50);
+    width: 90px;
+    height: 26px;
+    border-radius: 3px;
+    color: white;
+}

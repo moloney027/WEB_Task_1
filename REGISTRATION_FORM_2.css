@@ -1,0 +1,81 @@
+.heading {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.form {
+    width: 362px;
+    height: 245px;
+    padding-top: 20px;
+    padding-left: 20px;
+    margin: 0 auto;
+    background-color: rgb(6, 144, 207);
+    outline: 3px solid rgb(0, 117, 178);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.name {
+    color: white;
+    font-size: 23px;
+}
+
+.line {
+    border: none;
+    background-color: white;
+    height: 0.5px;
+    margin-left: -20px;
+    margin-bottom: 30px;
+}
+
+.email {
+    color: white;
+    font-size: 15px;
+    font-weight: lighter;
+}
+
+.emailInp {
+    border: 1px solid rgb(171, 173, 179);
+    width: 295px;
+    height: 18px;
+    margin-bottom: 20px;
+    display: inline-block;
+}
+
+.pass {
+    color: white;
+    font-size: 15px;
+    font-weight: lighter;
+    display: inline-block;
+}
+
+.passInp {
+    border: 1px solid rgb(171, 173, 179);
+    width: 132px;
+    height: 18px;
+    display: inline-block;
+}
+
+.pass2 {
+    color: white;
+    font-size: 15px;
+    font-weight: lighter;
+    display: inline-block;
+    margin-left: 20px;
+}
+
+.passInp2 {
+    border: 1px solid rgb(171, 173, 179);
+    width: 132px;
+    height: 18px;
+    display: inline-block;
+    margin-bottom: 33px;
+}
+
+.butt {
+    letter-spacing: -0.6px;
+    width: 81px;
+    height: 26px;
+    font-size: 13px;
+    border: none;
+    background-color: rgb(255, 223, 127);
+}
